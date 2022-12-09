@@ -1,0 +1,8 @@
+[package]
+name = 'hello_move'
+version = '1.0.0'
+[dependencies.AptosFramework]
+local = "../framework/aptos-framework"
+
+[addresses]
+ctfmovement = '_'
